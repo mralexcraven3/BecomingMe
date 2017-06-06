@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>BecomingMe</title>
-	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="Website container">
