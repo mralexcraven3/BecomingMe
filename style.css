@@ -1,0 +1,86 @@
+body{
+  background-color: #222;
+  color: white;
+  width: %;
+  height: 100%;
+  
+}
+.container {
+
+}
+.navbar{
+  width: 100%;
+}
+.navbar ul{
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+  
+}
+.navbar li{
+    float: left;
+    border-right: none;
+    
+}
+.navbar li:last-child {
+    border-right: none;
+}
+
+.navbar li a{
+  
+   display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar li a:hover:not(.active) {
+    background-color: red;
+}
+.navbar .active {
+    background-color: #4CAF50;
+}
+
+
+.main{
+  background-color: ;
+}
+
+.footer{
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  border-radius: 10px;+
+}
+
+.footer ul{
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+  
+}
+.footer li{
+   align:center;
+    border-right: none;
+    
+}
+img .active {
+    background-color: #4CAF50;
+}
+.center{
+  align: center;
+}
+.facebook{
+  display: inline;
+}
+.github{
+  text-decoration: none;
+  color: white;
+}
